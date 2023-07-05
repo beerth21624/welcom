@@ -18,10 +18,10 @@ function App() {
         style={{
           position: "absolute",
           bottom: "0",
-          fontSize: "10px",
+          fontSize: "5px",
         }}
       >
-        baria_srw
+        by baria_srw
       </sub>
 
       <div className="input-container">
