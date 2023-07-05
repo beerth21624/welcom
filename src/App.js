@@ -25,7 +25,18 @@ function App() {
       </sub>
 
       <div className="input-container">
+        <p
+          style={{
+            textAlign: "center",
+            fontSize: "20px",
+            color: "#501616",
+            fontWeight: "bold",
+          }}
+        >
+          สิ่งที่น้องตามหาอยู่ข้างล่างนี้!!!
+        </p>
         <h1 className="title">Good Luck</h1>
+
         <div className="input-box">
           <input
             type="text"
