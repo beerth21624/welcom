@@ -36,7 +36,7 @@ function App() {
           display: checkTime() ? "block" : "none",
         }}
       >
-        baria_srw
+        hint: u-next every day
       </sub>
 
       <div className="input-container">
