@@ -13,7 +13,6 @@ function App() {
     alert("Copied to clipboard");
   }
 
-  // function if time between 0600 to 0800 return true
   function checkTime() {
     const date = new Date();
     const hour = date.getHours();
@@ -36,7 +35,8 @@ function App() {
           display: checkTime() ? "block" : "none",
         }}
       >
-        hint: u-next every day
+        hint: ที่อยู่ของพี่คือ lenyai zest45 บ้านเพื่อน ณ.บางเขน
+        ที่ไหนมีเหล้าที่นั่นมีพี่
       </sub>
 
       <div className="input-container">
